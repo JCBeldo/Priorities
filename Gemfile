@@ -52,6 +52,7 @@ group :development, :test do
 
   gem 'pry'
   gem 'rspec-rails'
+  gem 'shoulda-matchers'
 end
 
 group :development do
@@ -61,7 +62,6 @@ end
 
 group :test do
   gem 'simplecov'
-  gem 'shoulda-matchers'
   gem 'orderly'
   gem 'capybara'
   gem 'launchy'
