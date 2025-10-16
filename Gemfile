@@ -75,3 +75,4 @@ gem "figaro"
 
 gem 'faraday'
 gem "jsonapi-serializer"
+gem 'omniauth-google-oauth2'
